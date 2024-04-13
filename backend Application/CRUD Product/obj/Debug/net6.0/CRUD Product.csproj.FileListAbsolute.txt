@@ -1,0 +1,32 @@
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\appsettings.Development.json
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\appsettings.json
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\CRUD Product.exe
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\CRUD Product.deps.json
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\CRUD Product.runtimeconfig.json
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\CRUD Product.dll
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\CRUD Product.pdb
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Assesment\backend Application\CRUD Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.csproj.AssemblyReference.cache
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.AssemblyInfoInputs.cache
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.AssemblyInfo.cs
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.csproj.CoreCompileInputs.cache
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.MvcApplicationPartsAssemblyInfo.cs
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.MvcApplicationPartsAssemblyInfo.cache
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets\msbuild.CRUD Product.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD Product.props
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Product.props
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD Product.props
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets.build.json
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\staticwebassets.development.json
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\scopedcss\bundle\CRUD Product.styles.css
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.csproj.CopyComplete
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.dll
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\refint\CRUD Product.dll
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.pdb
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\CRUD Product.genruntimeconfig.cache
+D:\Assesment\backend Application\CRUD Product\obj\Debug\net6.0\ref\CRUD Product.dll
