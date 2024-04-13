@@ -1,0 +1,24 @@
+Release Notes
+
+1.Backend Configuration
+
+	Utilizing a .NET Core Web API Application.
+
+	Employing default libraries and API controllers.
+
+2.Frontend Configuration
+
+	Utilizing the React framework.
+
+	Used Libraries:
+
+		1.Bootstrap
+		2.Axios
+		3.Toast
+Description:
+
+	In this application, I've implemented basic CRUD operations without utilizing a traditional database. Instead, I've opted for dot net core list storage. Users can add, edit, update, and delete values within the application.
+
+	For the UI, I've provided basic field styles and colors, ensuring responsiveness across devices.
+
+	On the backend, I've created APIs for GET, POST, and PUT operations. These APIs can be used seamlessly with Flutter and React Native applications as well.
