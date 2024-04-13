@@ -4,16 +4,16 @@ namespace CRUD_Product.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class basic : ControllerBase
     {
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<basic> _logger;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public basic(ILogger<basic> logger)
         {
             _logger = logger;
         }
