@@ -127,7 +127,7 @@ function ProductCrud() {
 
                         <div>
                             <button className="btn btn-primary mt-4" id="saveProduct" onClick={saveProduct}>
-                                save
+                                Add
                             </button>
                             <button className="btn btn-warning mt-4" id="updateProduct" onClick={updateProduct}>
                                 Update
